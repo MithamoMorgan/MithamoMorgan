@@ -11,6 +11,6 @@ I have had the opportunity to work on diverse data projects, which have honed my
 💬 Social Media: X, Linkedin</br>
 ✨ Fun Fact: I am a data junkie!</br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MithamoMorgan&show_icons=true)](https://github.com/MithamoMorgan/github-readme-stats&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MithamoMorgan&show_icons=true&theme=highcontrast)](https://github.com/MithamoMorgan/github-readme-stats&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MithamoMorgan)](https://github.com/MithamoMorgan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MithamoMorgan&theme=highcontrast)](https://github.com/MithamoMorgan/github-readme-stats&theme=highcontrast)
