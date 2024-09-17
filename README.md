@@ -10,3 +10,5 @@ I have had the opportunity to work on diverse data projects, which have honed my
 📭 Mail: mithamomorgan@gmail.com</br>
 💬 Social Media: X, Linkedin</br>
 ✨ Fun Fact: I am a data junkie!</br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MithamoMorgan)](https://github.com/MithamoMorgan/github-readme-stats)
