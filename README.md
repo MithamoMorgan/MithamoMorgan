@@ -8,7 +8,6 @@ I have had the opportunity to work on diverse data projects, which have honed my
 🤝 Open to collaborating on datascience related projects.</br>
 ☎️ Call: +254 796 041 998</br>
 📭 Mail: mithamomorgan@gmail.com</br>
-💬 Social Media: X, Linkedin</br>
 ✨ Fun Fact: I am a data junkie!</br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithamomorgan" alt="mithamomorgan" /></a> </p>
