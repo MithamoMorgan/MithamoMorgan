@@ -1,4 +1,4 @@
-Hello 👋
+## Hello 👋
 
 I am a data enthusiast with a strong background in statistics and programming, passionate about leveraging data science and analytics to solve real-world problems through innovative projects. Professionally, I am also open to collaborations in these fields.
 
