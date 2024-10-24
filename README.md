@@ -1,5 +1,7 @@
 ## Hello 👋
 
+img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif"
+
 I am a data enthusiast with a strong background in statistics and programming, passionate about leveraging data science and analytics to solve real-world problems through innovative projects. Professionally, I am also open to collaborations in these fields.
 
 I have had the opportunity to work on diverse data projects, which have honed my skills in Python, SQL, Tableau, and statistical analysis. My experience includes building predictive models using machine learning algorithms and analyzing data to deliver actionable insights.
