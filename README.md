@@ -1,6 +1,6 @@
 ## Hello 👋
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 I am a data enthusiast with a strong background in statistics and programming, passionate about leveraging data science and analytics to solve real-world problems through innovative projects. Professionally, I am also open to collaborations in these fields.
 
