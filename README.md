@@ -1,6 +1,6 @@
 ## Hello 👋
 
-img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif"
+<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif">
 
 I am a data enthusiast with a strong background in statistics and programming, passionate about leveraging data science and analytics to solve real-world problems through innovative projects. Professionally, I am also open to collaborations in these fields.
 
