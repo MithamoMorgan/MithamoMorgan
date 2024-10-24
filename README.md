@@ -12,8 +12,6 @@ I have had the opportunity to work on diverse data projects, which have honed my
 📭 Mail: mithamomorgan@gmail.com</br>
 ✨ Fun Fact: I am a data junkie!</br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithamomorgan" alt="mithamomorgan" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/morgan_murimi_mithamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="morgan_murimi_mithamo" height="30" width="40" /></a>
