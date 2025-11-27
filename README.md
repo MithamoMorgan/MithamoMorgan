@@ -2,15 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-I am a data enthusiast with a strong background in statistics and programming, passionate about leveraging data science and analytics to solve real-world problems through innovative projects.
-
-I have had the opportunity to work on diverse data projects, which have honed my skills in Python, SQL, Tableau, and statistical analysis. My experience includes building predictive models using machine learning algorithms and analyzing data to deliver actionable insights.
-
-🛠️ I am currently working on Data analysis and Data Science projects.</br>
-🤝 Open to collaborating on datascience related projects.</br>
-☎️ Call: +254 796 041 998</br>
-📭 Mail: mithamomorgan@gmail.com</br>
-✨ Fun Fact: I am a data junkie!</br>
+A data scientist and founder of [Lima](https://lima-coral.vercel.app/index.html#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
